@@ -12,7 +12,7 @@ function Header({ text }) {
 };
 
 Header.defaultProps = {
-    text: 'Feedback UI Test'
+    text: 'Feedback UI'
 };
 
 Header.propTypes = {
